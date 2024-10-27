@@ -7,7 +7,7 @@ The data points were scraped from twitter posts and have been ranked on their se
 ![Screenshot](screenshot_1.jpg)
 
 ## Authors
-![Victor Imark](https://github.com/v-imark) & ![Johan Bäcklund](https://github.com/Beckelund) & Henrik Gustafsson
+[Victor Imark](https://github.com/v-imark) & [Johan Bäcklund](https://github.com/Beckelund) & Henrik Gustafsson
 
 ### Origional Repo
 https://github.com/v-imark/AI4CA
